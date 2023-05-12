@@ -46,7 +46,7 @@ The Vision Transformer (ViT) model was proposed in An Image is Worth 16x16 Words
 * Other necessary Python libraries (see requirements.txt)
 ## Usage
 * Install require Python libraries (see requirements.txt)
-* streamlit run main.py this command in terminal
+* streamlit run app.py this command in terminal
 * Navigate to the URL provided after running the Streamlit run main.py
 * Upload an image to the Web APP.
 * Wait for the AI to generate captions
